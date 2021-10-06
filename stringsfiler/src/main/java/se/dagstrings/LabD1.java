@@ -4,7 +4,7 @@ public class LabD1 {
     public void Run() {
         int antalNamn = 0;
         while (true) {
-            System.out.println("Skriv in ett namn: ");
+            System.out.println("Skriv inHEJEH ett namn: ");
             String namn = System.console().readLine();
             int antalTecken = namn.length();
 
