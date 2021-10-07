@@ -9,7 +9,7 @@ public class LabD1 {
             int antalTecken = namn.length();
 
             if (namn.equalsIgnoreCase("exit")) {
-                System.out.println("Hejdå. Du har skrivit in såhär många namn: " + antalNamn);
+                System.out.println("Hejdå. Du hajjjjjjr skrivit in såhär många namn: " + antalNamn);
                 break;
             }
             System.out.println(antalTecken);
